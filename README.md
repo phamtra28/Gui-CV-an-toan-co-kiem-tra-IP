@@ -1,5 +1,3 @@
-# Gui-CV-an-toan-co-kiem-tra-IP
-Gửi CV an toàn có kiểm tra IP
 <h1 align="center">🔐 GỬI CV AN TOÀN CÓ KIỂM TRA IP</h1>
 
 <div align="center">
