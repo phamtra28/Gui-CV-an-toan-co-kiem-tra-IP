@@ -24,12 +24,8 @@ Dự án mô phỏng quá trình gửi hồ sơ xin việc (CV) từ ứng viên
 ## 🛠️ Cài đặt  
 
 ```bash
-pip install -r requirements.txt
+pip install cryptography
 ```
-
-_Yêu cầu:_ Python ≥ 3.8, thư viện `cryptography`
-
----
 
 ## 🚀 Cách chạy  
 
@@ -58,21 +54,12 @@ python sender.py
 
 ---
 
-## 📁 Cấu trúc dự án  
+## 👨‍💻 Tác giả  
 
-```
-secure_cv_transfer/
-├─ crypto_utils.py    # AES/RSA/Sign utilities
-├─ protocol.py        # JSON pack/unpack & SHA-512
-├─ sender.py          # Ứng viên gửi CV
-├─ receiver.py        # Hệ thống nhận CV
-├─ cv.pdf             # CV mẫu
-├─ requirements.txt   # Thư viện phụ thuộc
-└─ README.md          # Tệp này
-```
+Phạm Văn Trà • Lớp CNTT 17-11 • Trường Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
 
 ---
 
-## 👨‍💻 Tác giả  
+## 📜 Giấy phép  
 
-Phạm Văn Trà • Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
+Dùng cho mục đích học tập & demo kỹ thuật. Không sử dụng trong môi trường sản xuất nếu chưa tích hợp TLS/SSL, 2FA, quản lý khóa PKI.
