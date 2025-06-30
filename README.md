@@ -56,4 +56,4 @@ python sender.py
 
 ## 👨‍💻 Tác giả  
 
-Phạm Văn Trà • Lớp CNTT 17-11 • Trường Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
+Nhóm 9: Phạm Văn Trà, Phạm Thị Ngọc Thanh, Đinh Mai Phương • Lớp CNTT 17-11 • Trường Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
