@@ -1,7 +1,7 @@
 <h1 align="center">🔐 GỬI CV AN TOÀN CÓ KIỂM TRA IP</h1>
 
 ## 📌 Giới thiệu  
-Dự án mô phỏng quá trình gửi hồ sơ xin việc (CV) từ ứng viên đến hệ thống tuyển dụng của công ty một cách an toàn và có kiểm soát truy cập theo địa chỉ IP. Hệ thống đảm bảo:
+Dự án mô phỏng quá trình gửi hồ sơ (CV) một cách an toàn và có kiểm soát truy cập theo địa chỉ IP. Hệ thống đảm bảo:
 
 - 🔐 Mã hóa nội dung bằng AES-256 (CBC mode)  
 - 🔑 Trao đổi khóa phiên qua RSA-1024 (OAEP + SHA-256)  
