@@ -1,11 +1,5 @@
 <h1 align="center">🔐 GỬI CV AN TOÀN CÓ KIỂM TRA IP</h1>
 
-<div align="center">
-
-![Demo hệ thống](https://raw.githubusercontent.com/yourusername/Gui-CV-an-toan-co-kiem-tra-IP/main/demo.png)
-
-</div>
-
 ## 📌 Giới thiệu  
 Dự án mô phỏng quá trình gửi hồ sơ xin việc (CV) từ ứng viên đến hệ thống tuyển dụng của công ty một cách an toàn và có kiểm soát truy cập theo địa chỉ IP. Hệ thống đảm bảo:
 
@@ -79,18 +73,6 @@ secure_cv_transfer/
 
 ---
 
-## 📷 Demo kết quả  
-
-![Demo kết quả](https://raw.githubusercontent.com/yourusername/Gui-CV-an-toan-co-kiem-tra-IP/main/demo_result.png)
-
----
-
 ## 👨‍💻 Tác giả  
 
-Phạm Văn Trà • Đại học Đại Nam • Môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
-
----
-
-## 📜 Giấy phép  
-
-Dùng cho mục đích học tập & demo kỹ thuật. Không sử dụng trong môi trường sản xuất nếu chưa tích hợp TLS/SSL, 2FA, quản lý khóa PKI.
+Phạm Văn Trà • Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
