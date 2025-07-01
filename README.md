@@ -26,11 +26,11 @@ Dự án mô phỏng quá trình gửi hồ sơ (CV) một cách an toàn và c�
 secure_cv_transfer/
 ├── crypto_utils.py     # Mã hóa AES/RSA, ký số
 ├── protocol.py         # Hash, đóng gói/gỡ gói JSON
-├── sender.py           # Ứng viên gửi CV
-├── receiver.py         # Hệ thống nhận CV
-├── cv.pdf              # CV mẫu
+├── sender.py           # Gửi CV
+├── receiver.py         # Nhận CV
+├── cv.pdf              # CV
 ├── requirements.txt    # Thư viện phụ thuộc
-└── README.md           # Hướng dẫn này
+└── README.md           
 ```
 
 ## 🛠️ Cài đặt  
