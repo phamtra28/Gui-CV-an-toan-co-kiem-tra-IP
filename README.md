@@ -20,6 +20,18 @@ Dự án mô phỏng quá trình gửi hồ sơ (CV) một cách an toàn và c�
 - 📦 Đóng gói JSON gồm khóa, IV, ciphertext, hash, signature  
 
 ---
+## 📁 Cấu trúc dự án  
+
+```
+secure_cv_transfer/
+├── crypto_utils.py     # Mã hóa AES/RSA, ký số
+├── protocol.py         # Hash, đóng gói/gỡ gói JSON
+├── sender.py           # Ứng viên gửi CV
+├── receiver.py         # Hệ thống nhận CV
+├── cv.pdf              # CV mẫu
+├── requirements.txt    # Thư viện phụ thuộc
+└── README.md           # Hướng dẫn này
+```
 
 ## 🛠️ Cài đặt  
 
@@ -63,4 +75,7 @@ Dự án được phát triển bởi 3 thành viên:
 | Phạm Văn Trà         | Phát triển mã nguồn, thiết kế kiến trúc hệ thống, kiểm thử và biên soạn tài liệu.   |
 | Phạm Thị Ngọc Thanh  | Biên soạn tài liệu, đề xuất cải tiến và hỗ trợ bài tập lớn.                         |
 | Đinh Mai Phương      | Phát triển mã nguồn, hỗ trợ bài tập lớn, triển khai dự án và thực hiện.             |
-"""
+
+---
+
+© 2025 NHÓM 12, CNTT17-11, TRƯỜNG ĐẠI HỌC ĐẠI NAM
