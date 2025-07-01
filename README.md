@@ -78,4 +78,4 @@ Dự án được phát triển bởi 3 thành viên:
 
 ---
 
-© 2025 NHÓM 12, CNTT17-11, TRƯỜNG ĐẠI HỌC ĐẠI NAM
+© 2025 NHÓM 9, GỬI CV AN TOÀN CÓ KIỂM TRA IP, CNTT17-11, NHẬP MÔN AN TOÀN BẢO MẬT THÔNG TIN, TRƯỜNG ĐẠI HỌC ĐẠI NAM
