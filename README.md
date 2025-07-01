@@ -54,6 +54,13 @@ python sender.py
 
 ---
 
-## 👨‍💻 Tác giả  
+## 🤝 Đóng góp
 
-Nhóm 9: Phạm Văn Trà, Phạm Thị Ngọc Thanh, Đinh Mai Phương • Lớp CNTT 17-11 • Trường Đại học Đại Nam • Nhập môn An toàn bảo mật thông tin • Đề tài: Gửi CV an toàn có kiểm tra IP  
+Dự án được phát triển bởi 3 thành viên:
+
+| Họ và Tên            | Vai trò                                                                             |
+|----------------------|-------------------------------------------------------------------------------------|
+| Phạm Văn Trà         | Phát triển mã nguồn, thiết kế kiến trúc hệ thống, kiểm thử và biên soạn tài liệu.   |
+| Phạm Thị Ngọc Thanh  | Biên soạn tài liệu, đề xuất cải tiến và hỗ trợ bài tập lớn.                         |
+| Đinh Mai Phương      | Phát triển mã nguồn, hỗ trợ bài tập lớn, triển khai dự án và thực hiện.             |
+"""
